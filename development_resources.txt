@@ -1,0 +1,30 @@
+Link to Installing Software from source
+http://www.tldp.org/HOWTO/Software-Building-HOWTO.html#toc2
+
+Building the Linux Kernel from Scratch
+www.linuxfromscratch.org
+
+========================
+NODEJS
+========================
+
+Npm resources
+http://www.sitepoint.com/beginners-guide-node-package-manager/
+
+Package.json info
+https://docs.npmjs.com/files/package.json
+
+Restify Documentation
+http://mcavage.me/node-restify/#installation
+
+======================
+PYTHON
+======================
+Virtualenv
+http://docs.python-guide.org/en/latest/dev/virtualenvs/
+
+======================
+COMPUTER HARDWARE
+======================
+Electro Static Discarge Summary
+http://www.computerhope.com/esd.htm
